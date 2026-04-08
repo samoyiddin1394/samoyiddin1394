@@ -33,8 +33,8 @@ I am a 3rd-year student at **Inha University in Tashkent**, specializing in buil
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samoyiddin1394&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Samoyiddin's Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samoyiddin1394&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=samoyiddin1394&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Samoyiddin's Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samoyiddin1394&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 </p>
 
 ### 🛠️ Tech Stack & Skills
