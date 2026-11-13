@@ -1,23 +1,31 @@
 # 👋 Hello, I'm Samoyiddin!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Data+Analyst;Backend+Developer;CS+Student+@+Inha+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Data+Scientist;AI%2FML+Engineer;CS+Student+%40+Inha+University" alt="Data Scientist · AI/ML Engineer · CS Student @ Inha University" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am a 3rd-year student at **Inha University in Tashkent**, specializing in building robust backend systems and extracting meaningful insights from complex data.
+I am a 3rd-year student at **Inha University in Tashkent** working as a **Data Scientist** and growing into an **AI/ML Engineer**. I build machine learning models that turn raw data into decisions — from cleaning and EDA to training, evaluating and deploying models.
 
 - 🎓 **Faculty:** School of Computer Science and Information Engineering.
 - 🎯 **Major:** Computer Science and Software Engineering.
-- 📊 **Passion:** Data Science, Algorithmic Trading, and Financial Market Analysis.
-- 💻 **Backend:** Designing scalable APIs and optimizing database structures.
-- 🐍 **Tech Stack:** Python (Pandas, NumPy, Seaborn), SQL, FastAPI, Docker.
+- 💼 **Experience:** Data Science Intern at **SQB Bank** — building ML tools for loan portfolio classification. Previously Python Developer Intern at Skyware Solutions.
+- 🤖 **Focus:** Machine Learning, Deep Learning, NLP and applied AI in banking & finance.
+- 🧠 **Toolkit:** Python (Pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost), PyTorch, Hugging Face Transformers, SQL, FastAPI, Docker.
+
+### 📂 Featured Projects
+
+| Project | What's inside |
+|---------|---------------|
+| [**mohirdev-data-science**](https://github.com/samoyiddin1394/mohirdev-data-science) | ML projects & Kaggle competitions: bank churn prediction (ROC-AUC ≈ 0.935), cirrhosis survival prediction, customer segmentation, sentiment analysis with RNN vs DistilBERT |
+| [**tashkent_real_estate_project**](https://github.com/samoyiddin1394/tashkent_real_estate_project) | Tashkent apartment price analysis |
 
 ### 🌟 Interests & Hobbies
 
+- 📈 **Markets:** Following financial markets and algorithmic trading.
 - ⚽ **Football Enthusiast:** Big fan of the game, both watching and playing.
 - 🏎️ **BMW Fanatic:** Passionate about automotive engineering and BMW's design philosophy.
 - ✈️ **Traveler:** Love exploring new cultures and broadening my horizons.
@@ -42,10 +50,15 @@ I am a 3rd-year student at **Inha University in Tashkent**, specializing in buil
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
