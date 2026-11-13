@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-I am a 3rd-year student at **Inha University in Tashkent** working as a **Data Scientist** and growing into an **AI/ML Engineer**. I build machine learning models that turn raw data into decisions — from cleaning and EDA to training, evaluating and deploying models.
+I am a 4th-year student at **Inha University in Tashkent** working as a **Data Scientist** and growing into an **AI/ML Engineer**. I build machine learning models that turn raw data into decisions — from cleaning and EDA to training, evaluating and deploying models.
 
 - 🎓 **Faculty:** School of Computer Science and Information Engineering.
 - 🎯 **Major:** Computer Science and Software Engineering.
