@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Samoyiddin!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Data+Scientist;AI%2FML+Engineer;CS+Student+%40+Inha+University" alt="Data Scientist · AI/ML Engineer · CS Student @ Inha University" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Data+Scientist;AI%2FML+Engineer;Backend+Developer;CS+Student+%40+Inha+University" alt="Data Scientist · AI/ML Engineer · Backend Developer · CS Student @ Inha University" />
 </p>
 
 ---
@@ -14,6 +14,7 @@ I am a 3rd-year student at **Inha University in Tashkent** working as a **Data S
 - 🎯 **Major:** Computer Science and Software Engineering.
 - 💼 **Experience:** Data Science Intern at **SQB Bank** — building ML tools for loan portfolio classification. Previously Python Developer Intern at Skyware Solutions.
 - 🤖 **Focus:** Machine Learning, Deep Learning, NLP and applied AI in banking & finance.
+- 💻 **Backend:** Designing scalable APIs and serving ML models with FastAPI and Docker.
 - 🧠 **Toolkit:** Python (Pandas, NumPy, scikit-learn, XGBoost, LightGBM, CatBoost), PyTorch, Hugging Face Transformers, SQL, FastAPI, Docker.
 
 ### 📂 Featured Projects
